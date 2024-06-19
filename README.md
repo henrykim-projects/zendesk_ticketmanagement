@@ -41,10 +41,6 @@ Write a professional example response :  <br/>
 <img src="https://github.com/thethirdbirthday/zendesk_sampleticket/blob/e2123c7226a638f76a71010c1f140c273bb3688c/images/zendesk_8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create User Accounts with PowerShell script:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/3d1348440261b9f3aeda47158482a7c1f5d75ad0/ad_39.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Change ticket to "Resolved":  <br/>
 <img src="https://github.com/thethirdbirthday/zendesk_sampleticket/blob/e2123c7226a638f76a71010c1f140c273bb3688c/images/zendesk_9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
