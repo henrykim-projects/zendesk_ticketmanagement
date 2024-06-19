@@ -29,28 +29,25 @@ Zendesk provides a list of sample tickets, like this one: <br/>
 <img src="https://github.com/thethirdbirthday/zendesk_sampleticket/blob/b228de809fbdf0373dd048dc9f64be3bab3aac11/images/zendesk_5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
-Add Remote Access: <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e89cf54db7acecf70c92f16cfd937e15d21f40c/images/ad_NAT.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Clil "+Add" on the top-left corner to create a new ticket: <br/>
+<img src="https://github.com/thethirdbirthday/zendesk_sampleticket/blob/e2123c7226a638f76a71010c1f140c273bb3688c/images/zendesk_6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br/>
-Configure NAT in Routing and Remote Access: <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e89cf54db7acecf70c92f16cfd937e15d21f40c/images/ad_remoteaccess.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change ticket status to "In progress": <br/>
+<img src="https://github.com/thethirdbirthday/zendesk_sampleticket/blob/e2123c7226a638f76a71010c1f140c273bb3688c/images/zendesk_7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />  
 <br />
-Set DHCP server scope of IP addresses:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/3d1348440261b9f3aeda47158482a7c1f5d75ad0/ad_35.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Write a professional example response :  <br/>
+<img src="https://github.com/thethirdbirthday/zendesk_sampleticket/blob/e2123c7226a638f76a71010c1f140c273bb3688c/images/zendesk_8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create User Accounts with PowerShell script:  <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/3d1348440261b9f3aeda47158482a7c1f5d75ad0/ad_39.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create client VM connected only to internal network :  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/3d1348440261b9f3aeda47158482a7c1f5d75ad0/ad_46.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change ticket to "Resolved":  <br/>
+<img src="https://github.com/thethirdbirthday/zendesk_sampleticket/blob/e2123c7226a638f76a71010c1f140c273bb3688c/images/zendesk_9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Client IP address and default gateway will correspond with Domain Controller and DHCP:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e89cf54db7acecf70c92f16cfd937e15d21f40c/images/ad_usercomplete.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
