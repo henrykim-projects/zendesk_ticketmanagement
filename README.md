@@ -1,27 +1,20 @@
-<h1>Active Directory home Lab</h1>
+<h1>Resolving Sample Ticket on Zendesk</h1>
 
 
 <h2>Description</h2>
-Projet involves using Oracle VirtualBox to create a private network that allows new users a DHCP provided IP address to connect to the internet through NAT.A PowerShell script is used to create a bulk of user accounts. New users can also be simply be created and added manually. Great hands-on experience that demonstrates concepts in networking and cyber security.
+Zendesk allows users to compile and manage tickets from multiple platforms to facilitate resolution and client satisfaction. This project involves becoming acquainted with the basic features of Zendesk. We will also create a sample ticket, sort it, and resolve it. 
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Active Directory</b>
-- <b>PowerShell</b>
-- <b> Oracle Virtual Box </b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b>
-- <b>Server 2019</b>
+- <b>Zendesk</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Create a Domain Controller VM installed with Server 2019: <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/main/ad_1.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a Zendesk account: <br/>
+<img src="https://github.com/thethirdbirthday/zendesk_sampleticket/blob/f0a8932d561ef4a4509c07c79092db870308cace/images/zendesk_1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Distinguish home internet and internal network:  <br/>
