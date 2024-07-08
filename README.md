@@ -11,6 +11,7 @@ Zendesk allows users to compile and manage tickets from multiple platforms to fa
 - <b>Zendesk</b>
 - <b>Remote Service Management</b>
 - <b>Virtual Machines</b>
+- <b>Customer Relations</b>
 
 
 <h2>Program walk-through:</h2>
