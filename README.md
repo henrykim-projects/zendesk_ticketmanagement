@@ -1,4 +1,4 @@
-<h1>Zendesk Ticket Managementk</h1>
+<h1>Zendesk Ticket Management</h1>
 
 
 <h2>Description</h2>
