@@ -1,4 +1,4 @@
-<h1>Zendesk Ticket Management</h1>
+<h1>Zendesk Ticket Management and Workflow</h1>
 
 
 <h2>Description</h2>
@@ -47,6 +47,10 @@ Write a professional example response :  <br/>
 <br />
 Change ticket to "Resolved":  <br/>
 <img src="https://github.com/thethirdbirthday/zendesk_sampleticket/blob/e2123c7226a638f76a71010c1f140c273bb3688c/images/zendesk_9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<h2>Final Thoughts</h2>
+Zendesk boasts a variety of features that make orgainizing and resolving tickets as easily as possible. The app allows IT staff to maintain a system to delegate and elevate tickets when necessary to match high-volume environments. 
 <br />
 </p>
 
