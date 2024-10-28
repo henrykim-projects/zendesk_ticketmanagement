@@ -1,8 +1,8 @@
-<h1>Resolving Sample Ticket on Zendesk</h1>
+<h1>Zendesk Ticket Managementk</h1>
 
 
 <h2>Description</h2>
-Zendesk allows users to compile and manage tickets from multiple platforms to facilitate resolution and client satisfaction. This project involves becoming acquainted with the basic features of Zendesk. We will also create a sample ticket, sort it, and resolve it. 
+Zendesk allows users to compile and manage tickets from multiple platforms to facilitate resolution and client satisfaction. This project involves becoming acquainted with the basic features of Zendesk. We will also simulate a business scenario in resolving an issue. 
 <br />
 
 
